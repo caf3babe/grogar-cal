@@ -11,7 +11,7 @@ The two zones differ only in the Altpapier dates:
 | `grossrussbach-1.ics` | Großrußbach, Hipples, Weinsteig |
 | `grossrussbach-2.ics` | Karnabrunn, Kleinebersdorf, Wetzleinsdorf |
 
-Subscribe at `https://<github-user>.github.io/grogar-cal/grossrussbach-<zone>.ics`
+Subscribe at `https://caf3babe.github.io/grogar-cal/grossrussbach-<zone>.ics`
 (or with `webcal://` instead of `https://`).
 
 ## How it works
