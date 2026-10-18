@@ -2,6 +2,8 @@
 
 **Gro**ß**r**ußbach **Gar**bage **Cal**endar: subscribable iCal feeds for the waste collection dates in Marktgemeinde Großrußbach.
 
+🇦🇹 **[Anleitung auf Deutsch für Benutzer:innen](README.de.md)**
+
 ## Feeds
 
 The two zones differ only in the Altpapier dates:
